@@ -36,4 +36,3 @@ This project aims to predict the prices of vehicles in the German automotive mar
 - Insights into how different features (e.g., mileage, fuel type) impact car prices.  
 - Potential recommendations for buyers and sellers in the used car market.  
 
-## 📂 Repository Structure  
