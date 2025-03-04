@@ -1,21 +1,20 @@
-# DSA 210 Term Project: Car Price Prediction  
+# DSA 210 Term Project: Mercedes Used Car Price Prediction 
 
 ## 📌 Project Overview  
-This project aims to predict the prices of vehicles in the German automotive market based on various factors such as year, mileage, fuel type, horsepower, and transmission. By applying data science techniques, we will analyze how these attributes influence the market value of cars.  
+This project aims to predict the price of used Mercedes vehicles based on various factors such as model, registration year, mileage, fuel type, engine size, road tax, and transmission. By applying data science techniques, I will analyze how these attributes influence the market value of cars.  
 
 ## 📊 Dataset  
-- **Source:** [German Vehicle Price and Efficiency Dataset](https://www.kaggle.com/datasets/heidarmirhajisadati/german-vehicle-price-and-efficiency-dataset)  
-- **Description:** This dataset contains 500 records of cars from popular German manufacturers. The dataset includes details such as:  
-  - **Brand**: Car’s brand (Audi, BMW, Mercedes, etc.)  
+- **Source:** https://www.kaggle.com/datasets/mysarahmadbhat/mercedes-used-car-listing
+- **Description:** This dataset provides information about Mercedes used car listings and includes key attributes such as:
   - **Model**: Specific model of the car  
-  - **Year**: Manufacturing year (2005 - 2023)  
-  - **Mileage**: Total kilometers traveled (5,000 - 300,000 km)  
-  - **Fuel Type**: Petrol, Diesel, Electric, Hybrid  
-  - **Fuel Consumption (L/100km)**: Average fuel consumption  
-  - **Horsepower (HP)**: Engine power (70 - 500 HP)  
-  - **Transmission**: Manual or Automatic  
-  - **Price (€)**: Car price in euros (€5,000 - €100,000)  
-  - **City**: Location in Germany  
+  - **Year**: Registration year
+  - **Price (€)**: Car price in euros
+  - **Transmission**: Type of gearbox (Automatic, Manual, etc.) 
+  - **Mileage**: Distance traveled by the car 
+  - **Fuel Type**: Petrol, Diesel, etc.
+  - **Road Tax**: Annual tax on the vehicle 
+  - **MPG (Miles per Gallon)**: Fuel efficiency
+  - **Engine Size**: Engine capacity in liters  
 
 ## 🔍 Data Collection and Preprocessing  
 - The dataset will be directly sourced from Kaggle.  
