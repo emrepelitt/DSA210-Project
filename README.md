@@ -24,7 +24,6 @@ Key motivations for this project include:
 - The datasets are imported and cleaned to remove missing values, duplicates, and inconsistencies.
 - Features are analyzed for correlation with the target variable (price).
 - Categorical variables are encoded appropriately for model training.
-- Data from both datasets may be merged or analyzed separately depending on their structure and compatibility.
   
 ## Analysis Plan  
 1. **Descriptive Analysis**: Summary statistics and visualizations to explore relationships between variables.    
