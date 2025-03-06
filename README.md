@@ -9,8 +9,10 @@ This project aims to predict the price of Mercedes and Honda vehicles based on v
 ## Motivation
 
 - **Personal Interest**
+  
   I have a personal interest in analyzing cars that are for sale and I am particularly interested in Honda and Mercedes vehicles. Exploring car pricing patterns and factors influencing prices is a fascinating real-world problem.
 - **Application**
+  
   I want to integrate this personal interest into my work in data science and this project allows me to apply machine learning techniques to a practical scenario.
 
 
