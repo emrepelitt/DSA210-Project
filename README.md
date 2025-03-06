@@ -13,7 +13,7 @@ Key motivations for this project include:
 - **Prediction Model:** Developing a machine learning model to estimate car prices.
 - **Comparative Study:** Analyzing and comparing the pricing dynamics of Mercedes and Honda vehicles.
 
-## Dataset  
+## Data Source
 The data that will be used in this project comes from publicly available datasets on Kaggle.
 1. **Mercedes Used Car Listing**: Contains data on used Mercedes cars, including price, transmission, mileage, fuel type, road tax, miles per gallon (mpg), and engine size.
    - [Dataset Link](https://www.kaggle.com/datasets/mysarahmadbhat/mercedes-used-car-listing)
