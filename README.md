@@ -33,7 +33,7 @@ The project follows a structured approach:
   
 - **Standardizing Formats:** All data will be standardized to ensure consistency. Numerical values (e.g., mileage, price) will be correctly formatted, and categorical variables (e.g., fuel type, transmission) will be encoded properly.
 
-- **Removing Irrelevant Columns:** Columns that are not relevant for car price prediction will be removed to ensure the dataset is focused on important features.
+- **Removing Columns Not Common Between Datasets:** Columns that are not common between the two datasets (Mercedes and Honda) will be removed during the data merging process. This ensures that only the shared columns are retained, creating a larger, unified dataset for model training.
   
 2. **Exploratory Data Analysis (EDA)**:
 - **Visualizing Relationships:** Various visualizations will be created to understand how different attributes (e.g., mileage, fuel type, engine size) influence the car price.
