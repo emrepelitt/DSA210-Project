@@ -1,4 +1,4 @@
-# DSA 210 Term Project: Car Price Prediction e
+# DSA 210 Term Project: Car Price Prediction
 
 ## Project Overview  
 This project aims to predict the price of Mercedes and Honda vehicles based on various factors such as model, year, mileage, fuel type, transmission, and more. By applying data science techniques, I will analyze how these attributes influence the value of cars.  
