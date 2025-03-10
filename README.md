@@ -28,9 +28,18 @@ The data that will be used in this project comes from publicly available dataset
 
 ## Data Analysis
 The project follows a structured approach:
-1. **Data Cleaning & Preprocessing**: Handling missing values, standardizing formats, and removing irrelevant columns.
-2. **Exploratory Data Analysis (EDA)**: Visualizing relationships between variables to understand pricing trends.
-3. **Machine Learning Models**: Implementing regression techniques to predict car prices.
+1. **Data Cleaning & Preprocessing**: 
+- **Handling Missing Values:** Missing or NULL values in the datasets will be identified and addressed. Numerical columns will have missing values imputed using the mean or median, and categorical variables will be imputed with the mode or removed if the data is substantially missing.
+  
+- **Standardizing Formats:** All data will be standardized to ensure consistency. Numerical values (e.g., mileage, price) will be correctly formatted, and categorical variables (e.g., fuel type, transmission) will be encoded properly.
+
+- **Removing Irrelevant Columns:** Columns that are not relevant for car price prediction will be removed to ensure the dataset is focused on important features.
+  
+2. **Exploratory Data Analysis (EDA)**:
+- **Visualizing Relationships:** Various visualizations will be created to understand how different attributes (e.g., mileage, fuel type, engine size) influence the car price.
+  
+3. **Machine Learning Models**:
+- Regression techniques will be applied to predict car prices based on the cleaned and preprocessed dataset. 
 
 ## Expected Findings
 - Key factors affecting price might include mileage, fuel type, and engine size.
