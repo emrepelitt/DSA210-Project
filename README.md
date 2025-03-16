@@ -23,7 +23,7 @@ The data that will be used in this project comes from publicly available dataset
 ## Tools & Technologies Used
 - **Programming Language:** Python
 - **Data Analysis & Processing:** Pandas
-- **Data Visualization:** Matplotlib
+- **Data Visualization:** Matplotlib, Seaborn
 - **Machine Learning:** Scikit-learn
 
 ## Data Analysis
