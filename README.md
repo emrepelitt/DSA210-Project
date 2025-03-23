@@ -7,7 +7,7 @@ This project aims to predict the price of used (2nd hand) Mercedes and Hyundai v
 
 - **Personal Interest**
   
-  I have a personal interest in analyzing cars for sale and in this project I am looking at used Hyundai and Mercedes vehicles. Exploring car pricing patterns and the factors that affect prices is a fascinating real world problem.
+  I have a personal interest in analyzing cars for sale and in this project I am interested in used Hyundai and Mercedes vehicles. Exploring car pricing patterns and the factors that affect prices is a fascinating real world problem.
 - **Application**
   
   I want to integrate this personal interest into my work in data science and this project allows me to apply machine learning techniques to a practical scenario.
