@@ -19,6 +19,7 @@ The data that will be used in this project comes from publicly available dataset
 
 2. **Hyundai Used Car Listing**: Contains data on used Hyundai vehicles such as model, year, price (in euros), transmission, and more.
    - [Dataset Link](https://www.kaggle.com/datasets/mysarahmadbhat/hyundai-used-car-listing)
+
 All these consistencies, such as the fact that both datasets are published by the same person, that their columns are the same, and that they use the same currency, will make the processing of the datasets easier.
 
 ## Tools & Technologies Used
