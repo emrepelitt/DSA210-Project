@@ -1,24 +1,25 @@
-# DSA 210 Term Project: Car Price Prediction
+# DSA 210 Term Project: Used Car Price Prediction
 
 ## Project Overview  
-This project aims to predict the price of Mercedes and Honda vehicles based on various factors such as model, year, mileage, fuel type, transmission, and more. By applying data science techniques, I will analyze how these attributes influence the value of cars.  
+This project aims to predict the price of used (2nd hand) Mercedes and Hyundai vehicles based on various factors such as model, year, mileage, fuel type, transmission, and more. By applying data science techniques, I will analyze how these attributes influence the value of the used cars.  
 
 ## Motivation
 
 - **Personal Interest**
   
-  I have a personal interest in analyzing cars that are for sale and I am particularly interested in Honda and Mercedes vehicles. Exploring car pricing patterns and factors influencing prices is a fascinating real-world problem.
+  I have a personal interest in analyzing cars for sale and in this project I am looking at used Hyundai and Mercedes vehicles. Exploring car pricing patterns and the factors that affect prices is a fascinating real world problem.
 - **Application**
   
   I want to integrate this personal interest into my work in data science and this project allows me to apply machine learning techniques to a practical scenario.
 
 ## Data Source
 The data that will be used in this project comes from publicly available datasets on Kaggle.
-1. **Mercedes Used Car Listing**: Contains data on used Mercedes cars, including price, transmission, mileage, fuel type, road tax, miles per gallon (mpg), and engine size.
+1. **Mercedes Used Car Listing**: Contains data on used Mercedes cars, including price (in euros), transmission, mileage, fuel type, road tax, miles per gallon (mpg), and engine size.
    - [Dataset Link](https://www.kaggle.com/datasets/mysarahmadbhat/mercedes-used-car-listing)
 
-2. **Honda Cars Data**: Contains data on Honda vehicles such as model, condition, price, ratings, transmission, and more.
-   - [Dataset Link](https://www.kaggle.com/datasets/omartorres25/honda-data)
+2. **Hyundai Used Car Listing**: Contains data on used Hyundai vehicles such as model, year, price (in euros), transmission, and more.
+   - [Dataset Link](https://www.kaggle.com/datasets/mysarahmadbhat/hyundai-used-car-listing)
+All these consistencies, such as the fact that both datasets are published by the same person, that their columns are the same, and that they use the same currency, will make the processing of the datasets easier.
 
 ## Tools & Technologies Used
 - **Programming Language:** Python
